@@ -1,7 +1,9 @@
 # Assignment 4: Simple Java Classes and JUnit
 
 **Course:** CSC1016S, University of Cape Town
+
 **Topic:** Writing simple class declarations, using predefined classes and unit testing with JUnit
+
 **Language:** Java
 
 ## Overview
