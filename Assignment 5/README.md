@@ -1,7 +1,9 @@
 # Assignment 5: Simple Classes with Constructors, Fields and Methods
 
 **Course:** CSC1016S, University of Cape Town
+
 **Topic:** Writing classes with instance variables, constructors and methods
+
 **Language:** Java
 
 ## Overview
