@@ -1,7 +1,9 @@
 # Assignment 2: Basic Syntax
 
 **Course:** CSC1016S, University of Cape Town
+
 **Topic:** Introduction to objects and Java, mapping Python knowledge to Java
+
 **Language:** Java
 
 ## Overview
