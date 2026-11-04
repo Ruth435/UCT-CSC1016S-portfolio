@@ -1,7 +1,9 @@
 # Assignment 3: Creating a Basic Class
 
 **Course:** CSC1016S, University of Cape Town
+
 **Topic:** Class declarations, public instance variables and dot notation
+
 **Language:** Java
 
 ## Overview
